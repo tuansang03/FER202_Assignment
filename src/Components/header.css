@@ -1,0 +1,16 @@
+.header {
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.row h5 {
+    transition: color 0.3s;
+    cursor: pointer;
+    margin-bottom: 0px;
+}
+
+.row h5:hover {
+    color: #fe592a;
+}

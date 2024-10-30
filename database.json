@@ -1,0 +1,577 @@
+{
+    "phim": [
+        {
+            "id": 1,
+            "tieuDe": "Vụ không tặc 1993",
+            "ngayPhatHanh": "2010-07-16",
+            "thoiLuong": 86,
+            "theLoai": [
+                1,
+                2
+            ],
+            "daoDien": "Robert Peters",
+            "dienVien": [
+                1,
+                2,
+                3
+            ],
+            "danhGia": 8.8,
+            "moTa": "Trong nỗ lực lật đổ chính phủ được quân đội hậu thuẫn, bốn người đàn ông cướp một chiếc máy bay, thao túng hành khách trên máy bay nhân danh thay đổi xã hội.",
+            "anhBia": "https://phimimg.com/upload/vod/20241029-1/1a1b08f1bd2ea1891b8da5e37d52f10a.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241029-1/7b57f5f3d2a8715fedcf8b2d7cce7ef4.jpg",
+            "linkVideo": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20241029/ChyvDs1d/index.m3u8"
+        },
+        {
+            "id": 2,
+            "tieuDe": "Bẫy",
+            "ngayPhatHanh": "1994-09-23",
+            "thoiLuong": 105,
+            "theLoai": [
+                2,
+                5
+            ],
+            "daoDien": "M. Night Shyamalan",
+            "dienVien": [
+                4,
+                5
+            ],
+            "danhGia": 9.3,
+            "moTa": "Một người cha và cô con gái tuổi teen tham dự một buổi hòa nhạc nhạc pop, nơi họ nhận ra mình đang ở trung tâm của một sự kiện đen tối và nham hiểm.",
+            "anhBia": "https://phimimg.com/upload/vod/20240901-1/53ce0e831afd745080fce6e0eda074f6.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20240901-1/b4ac9ccc701a4fa2049d678027494254.jpg",
+            "linkVideo": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20241029/oAZGo44H/index.m3u8"
+        },
+        {
+            "id": 3,
+            "tieuDe": "Phóng Viên Chiến Trường",
+            "ngayPhatHanh": "2008-07-18",
+            "thoiLuong": 117,
+            "theLoai": [
+                2,
+                5
+            ],
+            "daoDien": "Ellen Kuras",
+            "dienVien": [
+                1,
+                6,
+                7
+            ],
+            "danhGia": 9.0,
+            "moTa": "Lee 2023 là một bộ phim tiểu sử kể về cuộc đời của Lee Miller, một người mẫu thời trang nổi tiếng đã trở thành một phóng viên chiến trường và nhiếp ảnh gia trong Thế chiến II. Kate Winslet đảm nhận vai Lee Miller.",
+            "anhBia": "https://example.com/darkknight.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241029-1/4f1da6e97cfb5e23da11d5d2b30c3123.jpg",
+            "linkVideo": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20241029/K2RjD8bo/index.m3u8"
+        },
+        {
+            "id": 4,
+            "tieuDe": "Nếu Gặp Lại Em Trên Ngọn Đồi Hoa Nở",
+            "ngayPhatHanh": "2014-11-07",
+            "thoiLuong": 127,
+            "theLoai": [
+                1,
+                6
+            ],
+            "daoDien": "Youichi Narita",
+            "dienVien": [
+                1,
+                8,
+                9
+            ],
+            "danhGia": 8.6,
+            "moTa": "Là một kỳ tích xúc động từ phòng vé Nhật Bản với 3,5 triệu vé được bán ra, bộ phim xoay quanh Yuri, một nữ sinh trung học đã vô tình xuyên không về Nhật Bản 70 năm trước. Tại đây, cô gặp gỡ một chàng trai tên Akira là một phi công cảm tử. Sau những ngày tháng kề bên, Yuri dần đem lòng cảm mến người con trai này.",
+            "anhBia": "https://phimimg.com/upload/vod/20241029-1/8758199d68a295a8fa4cdfc8e48a5219.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241029-1/f3de34a4632fabbc69809f271be9b66c.jpg",
+            "linkVideo": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20241029/cUgXUJ9U/index.m3u8"
+        },
+        {
+            "id": 5,
+            "tieuDe": "Trận Đánh Úp Trong Băng Tuyết 2",
+            "ngayPhatHanh": "1994-10-14",
+            "thoiLuong": 85,
+            "theLoai": [
+                4,
+                7
+            ],
+            "daoDien": "Zhao Ruiyong, Sun Tianhe, Yuan Guangan",
+            "dienVien": [
+                10,
+                11,
+                12
+            ],
+            "danhGia": 8.9,
+            "moTa": "Các thế lực siêu nhiên đưa ra lời kết tội đẫm máu, đày con người xuống địa ngục và nâng đỡ nhóm tôn giáo được thành lập dựa trên ý tưởng công lý của thần thánh.",
+            "anhBia": "https://phimimg.com/upload/vod/20241029-1/8d2d8662bcc49933bdd772e17a41ef64.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241029-1/4c6aa31d72c2443dd9a8b8d2676d7ef9.jpg",
+            "linkVideo": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20241029/ovsBNAR7/index.m3u8"
+        },
+        {
+            "id": 6,
+            "tieuDe": "Mật Danh Chim Hoàng Yến",
+            "ngayPhatHanh": "2019-05-20",
+            "thoiLuong": 103,
+            "theLoai": [
+                1,
+                6
+            ],
+            "daoDien": "Pierre Morel",
+            "dienVien": [
+                1,
+                7,
+                8
+            ],
+            "danhGia": 8.4,
+            "moTa": "Canary Black (2024) kể về Avery Graves, một đặc vụ bị đẩy vào tình thế hiểm nghèo khi chồng cô bị nhóm khủng bố bắt cóc. Để cứu anh, cô buộc phải đối mặt với lựa chọn tàn khốc: phản bội đất nước mình hay mất đi người thân yêu nhất. Trong cuộc chiến chống lại kẻ thù, Avery phải sử dụng tất cả kỹ năng của mình để vượt qua những âm mưu",
+            "anhBia": "https://phimimg.com/upload/vod/20241029-1/3e0f4b1ff220ff281b562a22df5fe464.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241029-1/b4020d49e23694c0a311cf6a77c7919d.jpg",
+            "linkVideo": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20241029/0UYhktZa/index.m3u8"
+        },
+        {
+            "id": 7,
+            "tieuDe": "Tiếng Gọi Nơi Hoang Dã",
+            "ngayPhatHanh": "2015-06-12",
+            "thoiLuong": 100,
+            "theLoai": [
+                1,
+                6
+            ],
+            "daoDien": "Chris Sanders",
+            "dienVien": [
+                2,
+                5,
+                9
+            ],
+            "danhGia": 7.0,
+            "moTa": "The Call of the Wild là một bộ phim phiêu lưu sắp ra mắt của Mỹ dựa trên tiểu thuyết cùng tên của Jack London 1903 và bộ phim chuyển thể năm 1935 trước đây của Twentieth Century Pictures.",
+            "anhBia": "https://phimimg.com/upload/vod/20241029-1/efbd143320249aec6cb1daf83bdecb0d.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241029-1/3038278c9c61afa311a70cd2addeaf3b.jpg",
+            "linkVideo": "https://player.phimapi.com/player/?url=https://s4.phim1280.tv/20241029/2MmVRrC5/index.m3u8"
+        },
+        {
+            "id": 8,
+            "tieuDe": "Venom: Kèo Cuối",
+            "ngayPhatHanh": "2021-11-05",
+            "thoiLuong": 109,
+            "theLoai": [
+                1,
+                2
+            ],
+            "daoDien": "Kelly Marcel",
+            "dienVien": [
+                6,
+                10,
+                11
+            ],
+            "danhGia": 8.1,
+            "moTa": "Đây là phần phim cuối cùng và hoành tráng nhất về cặp đôi Venom và Eddie Brock (Tom Hardy). Sau khi dịch chuyển từ Vũ trụ Marvel trong ‘Spider-man: No way home’ (2021) trở về thực tại, Eddie Brock giờ đây cùng Venom sẽ phải đối mặt với ác thần Knull hùng mạnh - kẻ tạo ra cả chủng tộc Symbiote và những thế lực đang rình rập khác. Cặp đôi Eddie và Venom sẽ phải đưa ra lựa quyết định khốc liệt để hạ màn kèo cuối này.",
+            "anhBia": "https://phimimg.com/upload/vod/20241028-1/081263af153f65b74e17994f47449545.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241028-1/ff2a724ecc9015caa18384f02f26b4c5.jpg",
+            "linkVideo": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20241028/cCmVbWnx/index.m3u8"
+        },
+        {
+            "id": 9,
+            "tieuDe": "Bỗng Dưng Trúng Mánh",
+            "ngayPhatHanh": "2019-05-30",
+            "thoiLuong": 105,
+            "theLoai": [
+                3,
+                5
+            ],
+            "daoDien": "Hwang Dong-seok",
+            "dienVien": [
+                4,
+                11,
+                12
+            ],
+            "danhGia": 8.6,
+            "moTa": "Bỗng Dưng Trúng Mánh là câu chuyện từ cá biệt toàn trường hoá tài phiệt học đường của Lee Kang-jin - một học sinh vốn thường xuyên bị bắt nạt. Tình cờ nhặt được chiếc phong bì chứa đầy tiền mặt của ông trùm cho vay nặng lãi Rang, cuộc đời Kang-jin đã hoàn toàn thay đổi. Rang dạy Kang-jin những bài học đầu tiên về nghề cho vay siêu lợi nhuận, từ đó biến cậu học trò lầm lì trở thành chiến thần tài chính, đại gia mới nổi, ông hoàng cho vay nặng lãi của trường trung học Geumhwa.",
+            "anhBia": "https://phimimg.com/upload/vod/20241028-1/8b14b661f9f923766590ce467615f3a5.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241028-1/00c278aa4c37dc947c8f5083de9267a8.jpg",
+            "linkVideo": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20241028/i9RkIrFi/index.m3u8"
+        },
+        {
+            "id": 10,
+            "tieuDe": "Tôi, Robot",
+            "ngayPhatHanh": "2016-03-18",
+            "thoiLuong": 115,
+            "theLoai": [
+                2,
+                4
+            ],
+            "daoDien": "Alex Proyas",
+            "dienVien": [
+                1,
+                3,
+                5
+            ],
+            "danhGia": 7.5,
+            "moTa": "Thời tương lai năm 2035, khi mà con người chế tạo ra rô-bốt để làm tất cả các công việc nặng nhọc thay mình. Nhưng khi một loại rô-bốt mới được chế tạo và phản lại loài người... chuyện gì sẽ xảy ra?",
+            "anhBia": "https://phimimg.com/upload/vod/20241028-1/fb11486fa97f61133bd90f35450de3a1.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241028-1/ccb4bed448750d727e95eedbbbb4f1bf.jpg",
+            "linkVideo": "https://example.com/trailer_secretweapon.mp4"
+        },
+        {
+            "id": 11,
+            "tieuDe": "Hellboy: Đại Chiến Quỷ Dữ",
+            "ngayPhatHanh": "1984-10-26",
+            "thoiLuong": 100,
+            "theLoai": [
+                2,
+                5
+            ],
+            "daoDien": "Brian Taylor",
+            "dienVien": [
+                2,
+                5,
+                11
+            ],
+            "danhGia": 8.0,
+            "moTa": "The Crooked Man xoay quanh câu chuyện Quỷ đỏ bị mắc kẹt ở vùng nông thôn Appalachia những năm 1950 cùng với một thành viên của đội BPRD. Tại đây, họ phải đối đầu, trốn chạy cuộc truy sát của một nhóm phù thủy được dẫn đầu bởi ác quỷ Crooked Man - người có mối liên hệ rắc rối với quá khứ của Quỷ đỏ.",
+            "anhBia": "https://phimimg.com/upload/vod/20241009-1/67fb26596e316e12bbfb63a6f0d62030.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241009-1/724ea490d95ba5da8051ea132fa49466.jpg",
+            "linkVideo": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20241028/OmtRdXUB/index.m3u8"
+        },
+        {
+            "id": 12,
+            "tieuDe": "Ma sói",
+            "ngayPhatHanh": "2010-07-16",
+            "thoiLuong": 95,
+            "theLoai": [
+                1,
+                5
+            ],
+            "daoDien": "François Uzan",
+            "dienVien": [
+                1,
+                3,
+                8
+            ],
+            "danhGia": 8.8,
+            "moTa": "Khi một trò chơi thẻ bài cũ bước vào đời thật, gia đình nọ du hành ngược thời gian về một ngôi làng thời trung cổ. Tại đó, họ phải lật mặt được ma sói thì mới có thể trở về nhà.",
+            "anhBia": "https://phimimg.com/upload/vod/20241028-1/90e0900c35a621dad14c4924af90f983.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241028-1/cf4524d516b3ac76f4ca79832cad4732.jpg",
+            "linkVideo": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20241028/W3Evk19r/index.m3u8"
+        },
+        {
+            "id": 13,
+            "tieuDe": "Gã Hề Điên Loạn 3",
+            "ngayPhatHanh": "2011-10-26",
+            "thoiLuong": 125,
+            "theLoai": [
+                6,
+                7
+            ],
+            "daoDien": "Damien Leone",
+            "dienVien": [
+                6,
+                9,
+                12
+            ],
+            "danhGia": 7.3,
+            "moTa": "Terrifier 3 2024 tiếp tục câu chuyện rùng rợn của Art the Clown (do David Howard Thornton thủ vai), diễn ra trong bối cảnh mùa Giáng sinh. Lần này Art tái xuất và tàn phá dân cư tại quận Miles với những hành vi tàn ác đẫm máu từ xâm nhập các quán bar, giả dạng ông già Noel và mang 'quà' đầy kinh dị đến cho trẻ em tại trung tâm thương mại. Các món quà mà Art trao cho bọn trẻ chứa đựng những quả bom gây ra cảnh tượng hỗn loạn khi hàng loạt người chết.",
+            "anhBia": "https://phimimg.com/upload/vod/20241028-1/b394cacc739c6fa369dbe33f3796f431.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241028-1/239f346b1abee66648b9a106109e23f6.jpg",
+            "linkVideo": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20241028/LcBrMAXC/index.m3u8"
+        },
+        {
+            "id": 14,
+            "tieuDe": "Chim Ưng",
+            "ngayPhatHanh": "2014-08-01",
+            "thoiLuong": 156,
+            "theLoai": [
+                1,
+                6
+            ],
+            "daoDien": "Karthik Ghattamaneni",
+            "dienVien": [
+                4,
+                7,
+                10
+            ],
+            "danhGia": 8.1,
+            "moTa": "Một nhà báo đã khám phá ra câu chuyện về một sát thủ tàn nhẫn khi cô điều tra một vụ che đậy của chính phủ.",
+            "anhBia": "https://phimimg.com/upload/vod/20241028-1/32af994b61fa1de2f8d5671f54a5c9b3.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241028-1/d26a681eb921fede0dd78430313f433a.jpg",
+            "linkVideo": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20241028/cNvbhh3f/index.m3u8"
+        },
+        {
+            "id": 15,
+            "tieuDe": "Nữ Sát Thủ",
+            "ngayPhatHanh": "2015-05-15",
+            "thoiLuong": 94,
+            "theLoai": [
+                2,
+                6
+            ],
+            "daoDien": "Michael S. Ojeda",
+            "dienVien": [
+                2,
+                4,
+                8
+            ],
+            "danhGia": 8.1,
+            "moTa": "Một sát thủ chuyên nghiệp đang chạy trốn khỏi quá khứ đầy rắc rối, gặp tai nạn máy bay và rơi xuống một thị trấn nhỏ ở Colombia, nơi đầy rẫy bạo lực. Cô được một gia đình địa phương cưu mang, nhưng lại bị cảnh sát truy đuổi. Dominique phải lựa chọn giữa việc bảo vệ bản thân hay đứng lên bảo vệ những người đã che chở cho mình. Khi người đàn ông duy nhất cô quan tâm bị sát hại dã man, Dominique quyết định hy sinh bản thân để bảo vệ gia đình vô tội của anh và huấn luyện họ chiến đấu chống lại chính quyền tham nhũng và băng đảng ma túy tàn bạo chịu trách nhiệm cho cái chết của anh.",
+            "anhBia": "https://phimimg.com/upload/vod/20241028-1/063e9b95cbcd2b71268ee3c18dac5973.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241028-1/65cc107b3c54f6a8b16ee30f7c7848a2.jpg",
+            "linkVideo": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20241028/0gxIamhw/index.m3u8"
+        },
+        {
+            "id": 16,
+            "tieuDe": "Dự Án Hồ Muối",
+            "ngayPhatHanh": "1977-05-25",
+            "thoiLuong": 90,
+            "theLoai": [
+                1,
+                6
+            ],
+            "daoDien": "陆磊",
+            "dienVien": [
+                5,
+                6,
+                11
+            ],
+            "danhGia": 8.6,
+            "moTa": "Dự Án Hồ Muối là một bộ phim hài phiêu lưu xoay quanh câu chuyện về Lão Tương, một người đàn ông mang trong mình một bí mật và kế hoạch trả thù. Anh ta giả vờ điên rồ và ngu ngốc dưới sự chỉ đạo của đại ca Lao Ying để thực hiện mục tiêu của mình. Trên đường đi, anh va chạm với tài xế ô tô màu đen Liu Lu, không ngờ rằng họ lại có liên quan đến công việc kinh doanh ngầm của thủ lĩnh độc ác Deyi. Những tình huống dở khóc dở cười diễn ra khi Lão Tương và Liu Lu cùng nhau hợp tác để giải quyết các rắc rối trên con đường trả thù của Lão Tương. Cả hai không biết rõ đích đến cuối cùng của hành trình này nhưng lại tạo nên những khoảnh khắc vui nhộn và gây cười cho khán giả. Với sự tham gia của các diễn viên nổi tiếng như Ngô Chấn Ngọc, Xu Juncong, Sheng Shao và Lu Lei, Dự Án Hồ Muối hứa hẹn sẽ mang lại những phút giây giải trí sảng khoái và thú vị cho khán giả yêu thích phim hài.",
+            "anhBia": "https://phimimg.com/upload/vod/20241028-1/1125b93cae9e99667b43aa106d8a8147.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241028-1/da58f01adfa20b627339a9f0f36db316.jpg",
+            "linkVideo": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20241028/089lj5xA/index.m3u8"
+        },
+        {
+            "id": 17,
+            "tieuDe": "Loạn Chiến Lãnh Chúa",
+            "ngayPhatHanh": "2008-05-02",
+            "thoiLuong": 131,
+            "theLoai": [
+                1,
+                2
+            ],
+            "daoDien": "ビートたけし",
+            "dienVien": [
+                7,
+                10,
+                12
+            ],
+            "danhGia": 7.9,
+            "moTa": "“Kubi” (2023) xoay quanh thời kỳ Nhật Bản hỗn loạn, khi các lãnh chúa đối đầu nhau để tranh giành quyền lực. Lãnh chúa Oda Nobunaga, với tham vọng thống nhất đất nước, đã phát động chiến tranh chống lại nhiều gia tộc đối địch. Tuy nhiên, một trong những thuộc hạ của ông, Araki Murashige, nổi loạn và sau đó biến mất một cách bí ẩn.",
+            "anhBia": "https://phimimg.com/upload/vod/20241028-1/c63d0c7773262339a9987240cfe2b399.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241028-1/632f1d3e67a86b1c909ee376277f60e5.jpg",
+            "linkVideo": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20241028/7gKI9a9w/index.m3u8"
+        },
+        {
+            "id": 18,
+            "tieuDe": "Mật Lệnh Bí Ẩn",
+            "ngayPhatHanh": "2014-11-07",
+            "thoiLuong": 105,
+            "theLoai": [
+                1,
+                6
+            ],
+            "daoDien": "Roel Reiné",
+            "dienVien": [
+                1,
+                8,
+                9
+            ],
+            "danhGia": 8.6,
+            "moTa": "Một sát thủ kỳ cựu của CIA, luôn nhận nhiệm vụ qua các mục rao vặt trên báo, đột ngột phát hiện ra rằng đơn vị của mình đã bị giải thể từ lâu mà anh không hề hay biết. Điều này đẩy anh vào một âm mưu nguy hiểm, nơi mọi thứ anh tin tưởng đều có thể chỉ là vỏ bọc.",
+            "anhBia": "https://phimimg.com/upload/vod/20241028-1/a29b2b42c9dcec5218495cb8a3ab36af.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241028-1/1a7b31a104741546bdc00a667db0c3a7.jpg",
+            "linkVideo": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20241028/iyNVq7m9/index.m3u8"
+        },
+        {
+            "id": 19,
+            "tieuDe": "Đôi hai",
+            "ngayPhatHanh": "2013-06-21",
+            "thoiLuong": 127,
+            "theLoai": [
+                2,
+                5
+            ],
+            "daoDien": "Shashanka Chaturvedi",
+            "dienVien": [
+                4,
+                5,
+                9
+            ],
+            "danhGia": 7.0,
+            "moTa": "Cuộc điều tra đầy bí ẩn dẫn một nữ cảnh sát nghiêm túc vào con đường tăm tối xoay quanh sự kình địch tàn khốc giữa hai chị em sinh đôi và người đàn ông bất ổn mà cả hai đều yêu.",
+            "anhBia": "https://phimimg.com/upload/vod/20241028-1/f80e637e87a3ec4cf1b71f6a14792020.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241028-1/2b63b3507801ccfc6b240494ce923bd5.jpg",
+            "linkVideo": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20241028/MSIevndk/index.m3u8"
+        },
+        {
+            "id": 20,
+            "tieuDe": "Đừng cử động",
+            "ngayPhatHanh": "2018-04-06",
+            "thoiLuong": 92,
+            "theLoai": [
+                2,
+                5
+            ],
+            "daoDien": "Brian Netto, Adam Schindler",
+            "dienVien": [
+                2,
+                3,
+                6
+            ],
+            "danhGia": 7.5,
+            "moTa": "Một người phụ nữ đau buồn trong khu rừng hẻo lánh chạm trán một kẻ sát nhân, rồi hắn tiêm loại thuốc gây tê liệt lên cô. Khi cơ thể cô bất động, cuộc chiến sinh tồn của cô bắt đầu.",
+            "anhBia": "https://phimimg.com/upload/vod/20241028-1/d7807d6499de055aaab0a27e5e76f7b3.jpg",
+            "thumb_url": "https://phimimg.com/upload/vod/20241028-1/d0932a4e0761da2702418aed6c2bad7f.jpg",
+            "linkVideo": "https://player.phimapi.com/player/?url=https://s5.phim1280.tv/20241028/7CsOJPtH/index.m3u8"
+        }
+    ],
+    "theLoai": [
+        {
+            "id": 1,
+            "ten": "Khoa Học Viễn Tưởng"
+        },
+        {
+            "id": 2,
+            "ten": "Hành Động"
+        },
+        {
+            "id": 3,
+            "ten": "Chính Kịch"
+        },
+        {
+            "id": 4,
+            "ten": "Tội Phạm"
+        },
+        {
+            "id": 5,
+            "ten": "Giật Gân"
+        },
+        {
+            "id": 6,
+            "ten": "Phiêu Lưu"
+        },
+        {
+            "id": 7,
+            "ten": "Hài Kịch"
+        }
+    ],
+    "dienVien": [
+        {
+            "id": 1,
+            "ten": "Leonardo DiCaprio",
+            "ngaySinh": "1974-11-11"
+        },
+        {
+            "id": 2,
+            "ten": "Joseph Gordon-Levitt",
+            "ngaySinh": "1981-02-17"
+        },
+        {
+            "id": 3,
+            "ten": "Elliot Page",
+            "ngaySinh": "1987-02-21"
+        },
+        {
+            "id": 4,
+            "ten": "Tim Robbins",
+            "ngaySinh": "1958-10-16"
+        },
+        {
+            "id": 5,
+            "ten": "Morgan Freeman",
+            "ngaySinh": "1937-06-01"
+        },
+        {
+            "id": 6,
+            "ten": "Christian Bale",
+            "ngaySinh": "1974-01-30"
+        },
+        {
+            "id": 7,
+            "ten": "Heath Ledger",
+            "ngaySinh": "1979-04-04"
+        },
+        {
+            "id": 8,
+            "ten": "Matthew McConaughey",
+            "ngaySinh": "1969-11-04"
+        },
+        {
+            "id": 9,
+            "ten": "Anne Hathaway",
+            "ngaySinh": "1982-11-12"
+        },
+        {
+            "id": 10,
+            "ten": "John Travolta",
+            "ngaySinh": "1954-02-18"
+        },
+        {
+            "id": 11,
+            "ten": "Samuel L. Jackson",
+            "ngaySinh": "1948-12-21"
+        },
+        {
+            "id": 12,
+            "ten": "Uma Thurman",
+            "ngaySinh": "1970-04-29"
+        }
+    ],
+    "nguoiDung": [
+        {
+            "id": 1,
+            "tenDangNhap": "user1",
+            "email": "user1@example.com",
+            "matKhau": "hashed_password_1",
+            "theLoaiYeuThich": [
+                1,
+                3
+            ],
+            "danhSachXemSau": [
+                1,
+                2,
+                4
+            ],
+            "vaiTro": "admin"
+        },
+        {
+            "id": 2,
+            "tenDangNhap": "user2",
+            "email": "user2@example.com",
+            "matKhau": "hashed_password_2",
+            "theLoaiYeuThich": [
+                2,
+                4
+            ],
+            "danhSachXemSau": [
+                3,
+                5
+            ]
+        },
+        {
+            "id": 3,
+            "tenDangNhap": "fanPhim",
+            "email": "fanphim@example.com",
+            "matKhau": "hashed_password_3",
+            "theLoaiYeuThich": [
+                2,
+                5,
+                6
+            ],
+            "danhSachXemSau": [
+                1,
+                3,
+                5
+            ]
+        },
+        {
+            "id": 4,
+            "tenDangNhap": "yeuPhim",
+            "email": "yeuphim@example.com",
+            "matKhau": "hashed_password_4",
+            "theLoaiYeuThich": [
+                1,
+                7
+            ],
+            "danhSachXemSau": [
+                2,
+                4
+            ]
+        }
+    ]
+}
