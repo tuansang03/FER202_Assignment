@@ -1,0 +1,49 @@
+
+.backgroundMovie div {
+    box-shadow: 0 6px 15px rgba(255, 255, 255, 0.1);
+    margin: auto;
+    cursor: pointer;
+    width: 250px;
+    border-radius: 4px;
+    background: linear-gradient(145deg, #202225, #17181a);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    text-align: left;
+    align-items: center;
+}
+
+.backgroundMovie:hover {
+    transform: scale(1.05);
+}
+
+.backgroundMovie div div {
+    padding: 10px;
+    height: 160px;
+}
+
+.backgroundMovie div img {
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+
+}
+
+.backgroundMovie h6 {
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: #ffffff;
+    margin-top: 14px;
+    transition: color 0.3s ease;
+    letter-spacing: 0.5px;
+    text-align: left;
+    width: 100%;
+}
+
+
+.backgroundMovie .movieInfo {
+    color: #b5b5b5;
+    font-size: 0.95rem;
+    font-weight: 400;
+    margin-top: 6px;
+    transition: color 0.3s ease;
+    text-align: left;
+    width: 100%;
+}

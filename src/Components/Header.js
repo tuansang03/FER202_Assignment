@@ -8,8 +8,21 @@ import './header.css';
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faSearch } from "@fortawesome/free-solid-svg-icons";
 import { faBell } from "@fortawesome/free-solid-svg-icons";
+import Dropdown from 'react-bootstrap/Dropdown';
 
 function Header() {
+    const [listTheLoai, setListTheLoai] = useState([]);
+
+    useEffect(() => {
+        const fetchData = async () => {
+
+            const responseTheloai = await axios.get("http://localhost:9999/theLoai");
+            setListTheLoai(responseTheloai.data);     
+        }
+        fetchData();
+
+    }, [])
+
     return (
         <Container>
             <Row className='header'>
@@ -19,13 +32,27 @@ function Header() {
                             <h5>Logo</h5>
                         </Col>
                         <Col >
-                            <h5><Link to={'/'}>Trang chủ</Link></h5>
+                            <Link to={'/'}>
+                                <h5>Trang chủ</h5>
+                            </Link>
                         </Col>
                         <Col >
-                            <h5>Phim mới</h5>
+                            <Link>
+                                <h5>Phim mới</h5>
+                            </Link>
                         </Col>
                         <Col >
-                            <h5>Thể loại</h5>
+                            <Dropdown style={{ backgroundColor: 'black' }}>
+                                <Dropdown.Toggle variant="success" id="dropdown-basic">
+                                    <h5>Thể loại</h5>
+                                </Dropdown.Toggle>
+
+                                <Dropdown.Menu>
+                                    {
+                                        listTheLoai.map(t => (<Dropdown.Item href={`/theloai?id=${parseInt(t.id)}`} >{t.ten}</Dropdown.Item>))
+                                    }
+                                </Dropdown.Menu>
+                            </Dropdown>
                         </Col>
                         <Col >
                             <h5>Xếp hạng phim</h5>

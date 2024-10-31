@@ -14,3 +14,41 @@
 .row h5:hover {
     color: #fe592a;
 }
+
+.dropdown button {
+    display: flex;
+    align-items: center;
+    padding: 0px;
+}
+
+.dropdown button h5 {
+    padding-right: 2px;
+}
+
+
+.dropdown button:hover,
+.dropdown button,
+.dropdown .btn:active,
+.dropdown .btn-check:checked+.btn,
+.dropdown .btn.active,
+.dropdown .btn.show,
+.dropdown .btn:first-child:active,
+.dropdown :not(.btn-check)+.btn:active {
+    background-color: black !important;
+    border: none;
+}
+
+.dropdown-toggle::after {
+    border-top: .4em solid;
+    border-right: .4em solid transparent;
+    border-left: .4em solid transparent;
+}
+
+.dropdown-menu {
+    padding: 0;
+}
+
+.dropdown-item:hover {
+    border-radius: 4px;
+    background: #fe592a !important;
+}
